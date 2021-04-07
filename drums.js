@@ -140,4 +140,4 @@ $("#play").click(function() {
 });
 
 window.playing = false;
-sampleLoader('samples/hihat.wav', context, setup);
+sampleLoader('hihat.wav', context, setup);
